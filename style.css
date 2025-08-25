@@ -66,5 +66,7 @@ body {
         flex-direction: column;
         text-align: center;
     }
-    
+    .perfil img {
+        margin-bottom: 10px;
+    }
 }
